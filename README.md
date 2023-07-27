@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou o Wagner Maki
 
-- 🔭 Atualmente trabalho com fullstack
+- 🔭 Atualmente trabalho como fullstack
 - 🌱 Estudando Angular, TypeScript
 - 😄 Pronouns: ele/dele
 
